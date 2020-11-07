@@ -1,0 +1,8 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /ResServer
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/userServer
